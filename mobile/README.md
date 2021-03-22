@@ -1,2 +1,0 @@
-# mobile
-Quiz Expert MobileApp
